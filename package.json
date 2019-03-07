@@ -4,7 +4,8 @@
   "description": "COMP308 Demo Project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
   },
   "author": "Dennis Kanzira",
   "license": "ISC",
@@ -13,5 +14,8 @@
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
     "popper.js": "^1.14.7"
+  },
+  "devDependencies": {
+    "lite-server": "^2.4.0"
   }
 }
