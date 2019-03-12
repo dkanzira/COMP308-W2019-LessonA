@@ -9,5 +9,5 @@
         console.log('App Started...${myFunctionVariable}');
     }
 
-    window.addEventListener("load",Start);
+     window.addEventListener("load",Start);
 })();
